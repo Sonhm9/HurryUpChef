@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13a73f67a654ffd4d83ea3cc2fc559bf, type: 3}
+  m_Name: TutorialGuest
+  m_EditorClassIdentifier: 
+  guestName: Tutorial Guest
+  eatingPatienceTime: 9999
+  orderingPatienceTime: 9999
+  prefabs:
+  - {fileID: 5496935465626528353, guid: 843da122611bb534b883481d0b73d064, type: 3}
+  - {fileID: 5496935465626528353, guid: ea746ab75e732ef4ba3f35072e156818, type: 3}
+  - {fileID: 5496935465626528353, guid: efa7a07fad3017b43973cbd4bf4d0068, type: 3}
+  - {fileID: 5496935465626528353, guid: 4722dbb246072784d8006351c067dcd1, type: 3}
+  - {fileID: 5496935465626528353, guid: 72747d66f2d6f5d479980645d28b3872, type: 3}
+  - {fileID: 5496935465626528353, guid: 284f166d9fad43f4393c741e486814e5, type: 3}

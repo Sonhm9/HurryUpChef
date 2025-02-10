@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ca87420f455353438d6df2381780d99, type: 3}
+  m_Name: OriginGuest
+  m_EditorClassIdentifier: 
+  guestName: Original Guest
+  eatingPatienceTime: 150
+  orderingPatienceTime: 30
+  prefabs:
+  - {fileID: 5496935465626528353, guid: d5040603d9378b145bc56df631e4f873, type: 3}
+  - {fileID: 5496935465626528353, guid: ca65570e8157ce141adc154169ede02f, type: 3}
+  - {fileID: 5496935465626528353, guid: 728d24e2371768940a5683762e90d0f6, type: 3}
+  - {fileID: 5496935465626528353, guid: 7081ee600957b8d44a9083066e7938f2, type: 3}
+  - {fileID: 5496935465626528353, guid: 6fedabf4e40a1e04a9af56a587211326, type: 3}
+  - {fileID: 5496935465626528353, guid: 805fb66b56841834fa6ddb978a8f3004, type: 3}
